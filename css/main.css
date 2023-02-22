@@ -120,14 +120,30 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   width: 30%;
-  color: #fff;
+  color: #f16059;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  height: auto;
+  padding: 0 5%;
 }
 
+hr {
+    color: #3bc9f5;
+    background-color: #3bc9f5; 
+    height: 2px;
+    border: 0;
+}
+
+.div-2 {
+    border-left: 2px solid #3bc9f5;
+    border-right: 2px solid #3bc9f5;
+}
+
+footer img {
+    height: 25px;
+}
 
 
 
